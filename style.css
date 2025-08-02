@@ -1,4 +1,37 @@
-html {
-  height: 100%;
-  width: 100%;
+#profile {
+  width:20%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
+
+
+/* STYLE SECTIONING TAGS */
+main{
+  text-align:center;
+}
+
+body {
+  text-align:center;
+}
+/* STYLE TEXT */
+
+
+/* STYLE NAV BAR */
+nav li{
+  display:inline-block;
+}
+
+nav {
+  background-color: azure;
+}
+
+nav a {
+  display:block;
+  text-decoration: none;
+}
+
+nav a:hover {
+  background-color:aquamarine;
+}
+
